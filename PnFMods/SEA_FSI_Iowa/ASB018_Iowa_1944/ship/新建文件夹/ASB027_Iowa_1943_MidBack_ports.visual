@@ -1,8 +1,4 @@
 <ASB027_Iowa_1943_MidBack_ports.visual>
-	<boundingBox>
-		<min>	-0.066700 -0.066700 -0.066700	</min>
-		<max>	0.066700 0.066700 0.066700	</max>
-	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
 		<transform>
@@ -335,219 +331,129 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATB1013	</identifier>
+				<identifier>	MP_ATB1016	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000058 0.392797 -1.664616	</row3>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.531546 0.395428 -1.307849 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0663	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.105094 0.495237 -2.165150 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1022	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000590 1.150613 -1.697517 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0665	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.049519 0.914748 -1.593265 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
 				<identifier>	MP_ATB1015	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000016 0.395104 -2.211031	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM028_Ammunition_Box2	</identifier>
-				<transform>
-					<row0>	0.592131 0.000000 1.029741 0.000000	</row0>
-					<row1>	0.000000 1.187849 0.000000 0.000000	</row1>
-					<row2>	-1.029741 0.000000 0.592131 0.000000	</row2>
-					<row3>	0.190072 0.393988 -3.507850 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM170_Flag_Box_2	</identifier>
-				<transform>
-					<row0>	0.966216 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.862537 -2.229149 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTB0664	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.002168 0.656614 -2.259763	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTB0662	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.007843 0.570923 -2.420267	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1008	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.007414 0.392653 -3.596612	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1030	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000165 0.500206 -0.697163	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1017	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000016 0.893102 -3.044194	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1025	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000009 1.540651 -1.631062	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1020	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000056 2.218475 -2.276908	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1018	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000185 0.864152 -3.483767	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM025_Pelorus_Mk7	</identifier>
-				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.880057 -3.593974 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1012	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000011 0.394991 -0.895524	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1033	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000008 0.811031 -2.040064	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1034	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000706 0.846043 -1.909385	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1027	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.002481 0.718882 -2.739794	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1016	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.531546 0.395428 -1.307849	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTB0666	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.000000 0.851275 -2.251499	</row3>
+					<row3>	0.000016 0.395104 -2.211031 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
 				<identifier>	MP_ATB1009	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.015298 0.855924 -0.982295	</row3>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.015298 0.855924 -0.982295 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATB1010	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000120 1.027355 -1.516217	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1026	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.099500 0.456100 -2.646591	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM072_Ships_bell	</identifier>
+				<identifier>	MP_ATB1036	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.003257 0.858408 -3.553069 1.000000	</row3>
+					<row3>	0.000461 0.652233 -0.927732 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CM024_Stairway_Big_L	</identifier>
+				<identifier>	MP_CTB0666	</identifier>
 				<transform>
-					<row0>	0.997892 0.062109 0.018822 0.000000	</row0>
-					<row1>	-0.062113 0.998069 -0.000379 0.000000	</row1>
-					<row2>	-0.018809 -0.000791 0.999823 0.000000	</row2>
-					<row3>	-1.101752 0.395894 -3.353726 1.000000	</row3>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000000 0.851275 -2.251499 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1029	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.508318 -2.882777 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0662	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.007843 0.570923 -2.420267 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1019	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.907135 -2.023392 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1020	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000056 2.218475 -2.276908 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1033	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000008 0.811031 -2.040064 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1030	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000165 0.500206 -0.697163 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -560,156 +466,165 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATB1035	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.397156 -1.906154	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1028	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000089 0.734535 -2.395025	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1029	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.508318 -2.882777	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1023	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.565586 -1.227800	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTB0661	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.402206 -1.295100	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTB0663	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.105094 0.495237 -2.165150	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM531_Stretcher	</identifier>
-				<transform>
-					<row0>	0.999804 0.000000 -0.019809 0.000000	</row0>
-					<row1>	-0.019809 0.000000 -0.999804 0.000000	</row1>
-					<row2>	0.000000 1.000000 0.000000 0.000000	</row2>
-					<row3>	0.774466 0.465057 -0.776568 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM200_Screened_speed_light	</identifier>
+				<identifier>	MP_ATB1013	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.915586 -3.630374 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1011	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.001268 0.859238 -3.216033	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM554_Speed_Light_Ctrl	</identifier>
-				<transform>
-					<row0>	-0.895290 0.000000 0.445483 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	-0.445483 0.000000 -0.895290 0.000000	</row2>
-					<row3>	-0.051625 0.865551 -3.593974 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1032	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.573622 -0.972846	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1019	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.907135 -2.023392	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTB0665	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.049519 0.914748 -1.593265	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1022	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000590 1.150613 -1.697517	</row3>
+					<row3>	0.000059 0.392797 -1.664616 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
 				<identifier>	MP_ATB1031	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000824 0.790919 -2.252042	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATB1024	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 1.191667 -2.819897	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_AM443__Turret_Position_Indicator	</identifier>
-				<transform>
-					<row0>	-0.503261 0.000000 -0.864134 0.000000	</row0>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.864134 0.000000 -0.503261 0.000000	</row2>
-					<row3>	0.132944 0.912537 -3.515587 1.000000	</row3>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000824 0.790919 -2.252042 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1018	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000185 0.864152 -3.483767 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1032	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.573622 -0.972846 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1021	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.807716 -3.264209 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM025_Pelorus_Mk7	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.880057 -3.593974 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1034	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000707 0.846043 -1.909385 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1025	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000009 1.540651 -1.631062 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1028	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000089 0.734535 -2.395025 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0664	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.002168 0.656614 -2.259762 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CTB0661	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.402206 -1.295099 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1035	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.397156 -1.906154 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1012	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000011 0.394991 -0.895524 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1010	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000120 1.027355 -1.516217 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1014	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.017067 -1.452044 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1008	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.007414 0.392653 -3.596612 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1026	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.099500 0.456100 -2.646591 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1027	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.002481 0.718882 -2.739794 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -722,30 +637,111 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATB1021	</identifier>
+				<identifier>	MP_AM072_Ships_bell	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.807716 -3.264209	</row3>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.003257 0.858408 -3.553069 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATB1014	</identifier>
+				<identifier>	MP_AM554_Speed_Light_Ctrl	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 1.017067 -1.452044	</row3>
+					<row0>	-0.895290 0.000000 0.445483 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.445483 0.000000 -0.895290 0.000000	</row2>
+					<row3>	-0.051625 0.865551 -3.593974 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATB1036	</identifier>
+				<identifier>	MP_AM531_Stretcher	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000461 0.652233 -0.927732	</row3>
+					<row0>	0.999804 0.000000 -0.019809 0.000000	</row0>
+					<row1>	-0.019809 0.000000 -0.999804 0.000000	</row1>
+					<row2>	0.000000 1.000000 0.000000 0.000000	</row2>
+					<row3>	0.774466 0.465057 -0.776568 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1011	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.001268 0.859238 -3.216033 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1017	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.000016 0.893102 -3.044194 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM028_Ammunition_Box2	</identifier>
+				<transform>
+					<row0>	0.592131 0.000000 1.029741 0.000000	</row0>
+					<row1>	0.000000 1.187849 0.000000 0.000000	</row1>
+					<row2>	-1.029741 0.000000 0.592131 0.000000	</row2>
+					<row3>	0.190072 0.393988 -3.507850 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1024	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.191667 -2.819897 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_ATB1023	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.565586 -1.227800 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM024_Stairway_Big_L	</identifier>
+				<transform>
+					<row0>	0.997892 0.062109 0.018822 0.000000	</row0>
+					<row1>	-0.062113 0.998069 -0.000379 0.000000	</row1>
+					<row2>	-0.018809 -0.000791 0.999823 0.000000	</row2>
+					<row3>	-1.101752 0.395894 -3.353726 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM170_Flag_Box_2	</identifier>
+				<transform>
+					<row0>	0.966216 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.862537 -2.229149 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM200_Screened_speed_light	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.915586 -3.630374 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM443_Turret_Position_Indicator	</identifier>
+				<transform>
+					<row0>	-0.503261 0.000000 -0.864134 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.864134 0.000000 -0.503261 0.000000	</row2>
+					<row3>	0.132944 0.912537 -3.515587 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -777,4 +773,8 @@
 			</node>
 		</node>
 	</node>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
 </ASB027_Iowa_1943_MidBack_ports.visual>
