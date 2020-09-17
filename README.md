@@ -1,6 +1,6 @@
 ﻿# FSI Iowa
 
-Model modification for tier 9 battleship **Iowa**. 
+Skin modification for tier 9 battleship **Iowa**. 
 
 Presented by FABAJI, SEA group
 
