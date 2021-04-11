@@ -107,7 +107,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_FSI_Iowa/ASB018_Iowa_1944/aircraft/AAS001_Vought_OS2U_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
