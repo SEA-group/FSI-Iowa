@@ -9,6 +9,6 @@
 		<Bool>	true	</Bool>
 	</property>
 	<property>	diffuseMap
-		<Texture>	content/gameplay/usa/aircraft/scout/textures/USA_Disk_2Blade_01_alpha_a.tga	</Texture>
+		<Texture>	content/gameplay/common/textures/USA_Disk_2Blade_01_alpha_a.dds	</Texture>
 	</property>
 </USA_Disk_2Blade_01_alpha.mfm>
