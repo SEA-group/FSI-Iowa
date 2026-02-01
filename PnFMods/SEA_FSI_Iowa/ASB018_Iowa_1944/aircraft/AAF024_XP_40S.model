@@ -1,9 +1,6 @@
 <AAF024_XP_40S.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_FSI_Iowa/ASB018_Iowa_1944/aircraft/lods/AAF024_XP_40S_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_FSI_Iowa/ASB018_Iowa_1944/aircraft/AAF024_XP_40S	</nodefullVisual>
+	<visual>	PnFMods/SEA_FSI_Iowa/ASB018_Iowa_1944/aircraft/AAF024_XP_40S.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AAF024_XP_40S.model>

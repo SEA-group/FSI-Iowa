@@ -1,69 +1,83 @@
 <ASB027_Iowa_1943_Bow_ports.visual>
-    <node>
-        <identifier>	Scene Root	</identifier>
-        <transform>
-            <row0> 1.000000 0.000000 0.000000 </row0>
-            <row1> 0.000000 1.000000 0.000000 </row1>
-            <row2> 0.000000 0.000000 1.000000 </row2>
-            <row3> 0.000000 0.000000 0.000000 </row3>
-        </transform>
-        <node>
-            <identifier>	Bow_ports	</identifier>
-            <transform>
-                <row0> 1.000000 0.000000 0.000000 0.000000 </row0>
-                <row1> 0.000000 1.000000 0.000000 0.000000 </row1>
-                <row2> 0.000000 0.000000 1.000000 0.000000 </row2>
-                <row3> 0.000000 0.000000 0.000000 1.000000 </row3>
-            </transform>
-			<node>
-				<identifier>	HP_AGM_1	</identifier>
-				<transform>
-					<row0> 1.000000 0.000000 0.000000 0.000000 </row0>
-					<row1> 0.000000 1.000000 0.000000 0.000000 </row1>
-					<row2> 0.000000 0.000000 1.000000 0.000000 </row2>
-					<row3> 0.000000 0.454892 4.184488 1.000000 </row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Death_1	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 4.6411 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_Fire_1	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.5596 6.8053 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_FX_WakeTrace	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 8.7546 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Ship_death_1	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 3.4365 1.0000	</row3>
-				</transform>
-			</node>
-        </node>
-    </node>
+	<skeleton>
+	    <node>
+	        <identifier>	Scene Root	</identifier>
+	        <transform>
+	            <row0> 1.000000 0.000000 0.000000 </row0>
+	            <row1> 0.000000 1.000000 0.000000 </row1>
+	            <row2> 0.000000 0.000000 1.000000 </row2>
+	            <row3> 0.000000 0.000000 0.000000 </row3>
+	        </transform>
+	        <node>
+	            <identifier>	Bow_ports	</identifier>
+	            <transform>
+	                <row0> 1.000000 0.000000 0.000000 0.000000 </row0>
+	                <row1> 0.000000 1.000000 0.000000 0.000000 </row1>
+	                <row2> 0.000000 0.000000 1.000000 0.000000 </row2>
+	                <row3> 0.000000 0.000000 0.000000 1.000000 </row3>
+	            </transform>
+				<node>
+					<identifier>	HP_AGM_1	</identifier>
+					<transform>
+						<row0> 1.000000 0.000000 0.000000 0.000000 </row0>
+						<row1> 0.000000 1.000000 0.000000 0.000000 </row1>
+						<row2> 0.000000 0.000000 1.000000 0.000000 </row2>
+						<row3> 0.000000 0.454892 4.184488 1.000000 </row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_Death_1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 4.6411 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_Fire_1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.5596 6.8053 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_FX_WakeTrace	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 8.7546 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_Ship_death_1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 3.4365 1.0000	</row3>
+					</transform>
+				</node>
+	        </node>
+	    </node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min> -0.066700 -0.066700 -0.066700	</min>
 		<max> 0.066700 0.066700 0.066700	</max>
 	</boundingBox>
+	<renderSets />
+	<lods>
+		<lod>
+			<extent>	200.000000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets />
+		</lod>
+	</lods>
 </ASB027_Iowa_1943_Bow_ports.visual>
